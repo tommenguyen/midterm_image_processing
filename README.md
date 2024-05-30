@@ -30,4 +30,4 @@ pip install -r requirements.txt
 # Results 
 Our Top-1 Accuracy model reach at 83.5%.
 # Link to full report (updating)
-URL: 
+URL: https://drive.google.com/file/d/1IzPFy7kU3R1IyhEw3LnHSE3jceYGQzqZ/view?usp=sharing
